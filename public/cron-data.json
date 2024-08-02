@@ -1,14 +1,10 @@
 [
   {
-    "server_name": "Mini Link API",
-    "api_url": "https://minilink-sklo.onrender.com"
+    "server_name": "udemybackend",
+    "api_url": "https://udemybackend-zf2r.onrender.com"
   },
   {
-    "server_name": "Mini Link Auth API",
-    "api_url": "https://mini-link-auth.onrender.com"
-  },
-  {
-    "server_name": "R Devs Todo API",
-    "api_url": "https://r-devs-todo-api.onrender.com"
+    "server_name": "homygig api",
+    "api_url": "https://homygig.onrender.com"
   }
 ]
