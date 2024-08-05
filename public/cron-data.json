@@ -7,4 +7,10 @@
     "server_name": "homygig api",
     "api_url": "https://homygig.onrender.com"
   }
+,
+{
+  "server_name": "Pocker Play",
+  "api_url": "https://pockerplayserver.onrender.com"
+}
+
 ]
